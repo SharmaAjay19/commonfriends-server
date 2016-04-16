@@ -1,0 +1,32 @@
+{
+  "name": "commonfriends-server",
+  "version": "0.1.0",
+  "description": "Server for the commonfriends App",
+  "dependencies": {
+    "express": "^4.13.4",
+    "aws-sdk": "^2.3.3",
+    "body-parser": "^1.15.0",
+    "fs": "^0.0.2",
+    "pg": "^4.5.3",
+    "request": "^2.71.0",
+    "routes": "^2.1.0"
+  },
+  "main": "awss3uploader.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node fetchserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharmaAjay19/commonfriends-server.git"
+  },
+  "keywords": [
+    "commonfriends"
+  ],
+  "author": "Ajay Sharma",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SharmaAjay19/commonfriends-server/issues"
+  },
+  "homepage": "https://github.com/SharmaAjay19/commonfriends-server#readme"
+}

@@ -1,0 +1,3 @@
+sudo npm install express
+sudo npm install pg
+sudo npm install --save body-parser (for parsing POST requests)
